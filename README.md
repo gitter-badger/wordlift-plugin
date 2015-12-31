@@ -3,6 +3,8 @@
 WordLift Plug-in for WordPress
 ==============================
 
+[![Join the chat at https://gitter.im/wordlift/wordlift-plugin](https://badges.gitter.im/wordlift/wordlift-plugin.svg)](https://gitter.im/wordlift/wordlift-plugin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Overview
 
 The official WordLift Web Site: [wordlift.it](http://wordlift.it)
